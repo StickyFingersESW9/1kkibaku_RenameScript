@@ -33,7 +33,8 @@ var	listRename = {
 	4017 : {name : "呂布奉先", reading : "りょふほうせん" },
 	4078 : {name : "馬超孟起", reading : "ばちょうもうき" },
 	4086 : {name : "呂布奉先", reading : "りょふほうせん" },
-	4099 : {name : "永尾まりや", reading : "ながおまりや" },//{name : "于吉", reading : "うきつ" },
+//	4099 : {name : "永尾まりや", reading : "ながおまりや" },//{name : "于吉", reading : "うきつ" },
+	4099 : {name : "于吉", reading : "うきつ" },
 	4121 : {name : "島崎遥香", reading : "しまざきはるか" },//{name : "胡車児", reading : "こしゃじ" },
 	4129 : {name : "孟獲", reading : "もうかく" },
 
